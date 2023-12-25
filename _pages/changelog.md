@@ -12,6 +12,33 @@ Emotes lets you browse through millions of emotes and copy the raw GIF or image 
 
 ### `Latest`
 
+# **Version 3.0**
+
+✨ Major Re-write + UI + UX Changes 
+
+### **What's New**
+
+- 7TV trending and search support.
+- Ability to switch providers.
+- Replacement of custom tabbar with a native one.
+- General optimizations.
+- Complete re-write for iOS 17 compatibility.
+- Merger of Trending/Top tabs into a new Hot Tab.
+- New search emotes tab featuring recent and suggested searches.
+- GIF engine written from scratch.
+- New pricing tiers.
+- Revamped settings page.
+- Added feature to change single emotes' appearance.
+- Enhanced cache and cache settings.
+
+### **Bug Fixes**
+
+- Fixed issue where top and trending pages weren't rendered.
+- Fixed issue where FFZ emotes weren't displayed.
+- Fixed issue where copying emote as Image/GIF made the size bigger.
+- Fixed a bug causing app hang-ups when searching for emotes with non-English characters.
+- Various performance improvements on older devices.
+
 # **Version 2.1**
 
 🐞 Bug fixes and improvements
